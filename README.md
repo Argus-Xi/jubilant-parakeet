@@ -6,6 +6,7 @@ font: jetbrains Mono
 Colors:
 
 changed my mind we're doing rose pine
+https://rosepinetheme.com/themes/
 
 (#06000B - background (dark part) rgb(6, 0, 11)
 #1F0734 - background (light part) rgb(31, 7, 52)
