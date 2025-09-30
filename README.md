@@ -8,6 +8,8 @@ Colors:
 changed my mind we're doing rose pine
 https://rosepinetheme.com/themes/
 
+heetch eris or gotham should be checked
+
 (#06000B - background (dark part) rgb(6, 0, 11)
 #1F0734 - background (light part) rgb(31, 7, 52)
 #CAAAE8 - text (basic) (202, 170, 232))
